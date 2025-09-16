@@ -19,8 +19,6 @@ It covers transactions, users, geography, NFTs, smart contracts, staking, and $F
   - [$FLOW Price & Tokens](#flow-price--tokens)
   - [Conclusions](#conclusions)
 - [Data Freshness](#data-freshness)
-- [Run Locally](#run-locally)
-- [Deploy to Streamlit Cloud](#deploy-to-streamlit-cloud)
 - [Notes & Methodology](#notes--methodology)
 
 ---
