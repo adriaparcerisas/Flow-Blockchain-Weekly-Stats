@@ -3,8 +3,6 @@
 An interactive Streamlit dashboard tracking weekly activity across the Flow ecosystem, combining **Cadence (core)** and **EVM** data.  
 It covers transactions, users, geography, NFTs, smart contracts, staking, and $FLOW price — with week-over-week deltas and long-term trends.
 
-![screenshot-placeholder](./docs/screenshot.png)
-
 ---
 
 ## Table of Contents
